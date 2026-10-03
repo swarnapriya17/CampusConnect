@@ -29,7 +29,10 @@ pnpm-debug.log*
 logs/
 *.log
 
-# File Uploads / Temp storage
+# File Uploads / Temp storage & Scratch
 uploads/
 **/uploads/
 tmp/
+scratch/
+**/scratch/
+
